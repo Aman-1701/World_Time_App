@@ -1,6 +1,6 @@
 # World_Time_App
 
-A new Flutter application.
+A new Flutter Application to show time.
 
 ## API Used
 
